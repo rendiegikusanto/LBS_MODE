@@ -1,0 +1,1 @@
+include ':app', ':osmbonuspack_v4.4', ':osmdroid-android-4.2', ':slf4j-android-1.6.1-RC1'
